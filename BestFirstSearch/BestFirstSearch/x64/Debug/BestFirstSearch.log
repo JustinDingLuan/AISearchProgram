@@ -1,0 +1,3 @@
+﻿  BestFirstSearch.cpp
+C:\AIProgramHw\BestFirstSearch\BestFirstSearch\BestFirstSearch.cpp(29,12): warning C4101: 'p': 未參考的區域變數
+  BestFirstSearch.vcxproj -> C:\AIProgramHw\BestFirstSearch\x64\Debug\BestFirstSearch.exe

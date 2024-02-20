@@ -1,0 +1,9 @@
+/*int heuristic(vector<int>curstate , vector<int>&final_state) {
+		int distance = 0;
+		for (int i = 0;i < final_state.size();i++) {
+			int x = abs((curstate[i] % 4) - (final_state[i] % 4));
+			int y = abs((curstate[i] / 4) - (final_state[i] / 4));
+			distance +=  (x + y);
+		}
+		return distance;
+	}*/
